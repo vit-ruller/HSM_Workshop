@@ -1,0 +1,19 @@
+{
+  "name": "hsm_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview --port 3000"
+  },
+  "author": "TheRodina",
+  "license": "ISC",
+  "dependencies": {
+    "phaser": "3.55.2"
+  },
+  "devDependencies": {
+    "vite": "^2.6.13"
+  }
+}
